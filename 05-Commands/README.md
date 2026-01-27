@@ -1,4 +1,4 @@
-# 第 10 讲：令行禁止 · Slash Commands 自定义命令
+# Slash Commands 自定义命令
 
 > 把重复的对话模式，变成一个 `/命令`
 

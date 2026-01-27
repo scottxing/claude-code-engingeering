@@ -1,6 +1,6 @@
 # Skills Q&A
 
-## Q1: Claude Code 中的 Skills 是什么？与其他地方谈的 Skills 有什么关系？
+## Q1: Claude Code 中的 Skills 是什么？
 
 ### Claude Code 中 Skills 的定义
 
@@ -129,6 +129,47 @@ Agent 需要**模块化的能力**来完成复杂任务，Skills 就是这些能
 | 为什么都在谈 Skills？ | 因为 Agent 需要模块化、可组合的能力 |
 | Claude Code 的 Skills 有什么特别？ | 渐进式披露、LLM 语义推理触发、Markdown 定义 |
 | Skills 和 Tools 什么区别？ | Skills = Tools + 知识 + 策略 + 上下文 |
+
+---
+
+## Q3: Skills 和 Tools 有何区别？
+
+在 Claude Code 语境下，**Tools** 和 **Skills** 是两个不同层次的概念：
+
+### 对比总览
+
+| 维度 | Tools | Skills |
+|------|-------|--------|
+| **是什么** | Claude 可调用的原子操作 | 带知识和策略的完整能力包 |
+| **来源** | 系统内置 / MCP 提供 | 开发者用 Markdown 定义 |
+| **粒度** | 单个操作（读文件、执行命令） | 一套工作流（审查代码、生成 API） |
+| **智能程度** | 被动调用，无自主判断 | 包含何时使用、如何使用的策略 |
+| **定义方式** | 代码 / JSON Schema | SKILL.md + YAML frontmatter |
+
+### 具体区分
+
+**Tools** 是 Claude 的"手"——执行具体动作：
+
+```
+Read        → 读取文件
+Edit        → 编辑文件
+Bash        → 执行命令
+Grep        → 搜索内容
+MCP Tools   → 调用外部 API
+```
+
+**Skills** 是 Claude 的"技能"——知道在什么场景下、用哪些 Tools、按什么策略完成任务：
+
+```
+财务分析 Skill → 知道何时触发，调用哪些 Tools，按什么流程分析，输出什么格式
+API 生成 Skill → 知道读取哪些模板，调用哪些命令，遵循什么规范生成代码
+```
+
+### 一句话总结
+
+> **Tools 是能力，Skills 是运用能力的智慧。**
+>
+> Tools 回答"能做什么"，Skills 回答"什么时候做、怎么做、做完怎么判断"。
 
 ---
 
