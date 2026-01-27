@@ -1,14 +1,14 @@
 # Claude Code 工程化实战 · 课程大纲
 
 <p align="center">
-  <a href="https://time.geekbang.org/column/intro/101053801"><img src="https://img.shields.io/badge/平台-极客时间-00b4ab?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+" alt="极客时间"/></a>
-  <a href="https://time.geekbang.org/column/intro/101053801"><img src="https://img.shields.io/badge/2026-首发专栏-ff6b35?style=for-the-badge" alt="2026首发"/></a>
-  <a href="https://time.geekbang.org/column/intro/101053801"><img src="https://img.shields.io/badge/Claude_Code-工程化实战-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
+  <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/平台-极客时间-00b4ab?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+" alt="极客时间"/></a>
+  <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/2026-首发专栏-ff6b35?style=for-the-badge" alt="2026首发"/></a>
+  <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/Claude_Code-工程化实战-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
 </p>
 
 <div align="center">
 
-<a href="https://time.geekbang.org/column/intro/101053801"><img src="91-Pictures/课程Banner.jpg" alt="Claude Code 工程化实战 Banner" width="600"/></a>
+<a href="https://time.geekbang.org/column/intro/101113501"><img src="91-Pictures/课程Banner.jpg" alt="Claude Code 工程化实战 Banner" width="600"/></a>
 
 🎯 **这是我为极客时间2026年制作的最新专栏，目标：快速掌握 Claude Code 高阶技能，进行工程化的 Agent 实战**
 
@@ -32,7 +32,7 @@
 但这不是"人被替代"的故事，而是"人机协作"的新篇章。
 
 <div align="center">
-  <a href="https://time.geekbang.org/column/intro/101053801"><img src="91-Pictures/极客和AI.png" alt="极客和AI" width="800"/></a>
+  <a href="https://time.geekbang.org/column/intro/101113501"><img src="91-Pictures/极客和AI.png" alt="极客和AI" width="800"/></a>
 </div>
 
 Claude Code 不只是一个更聪明的命令行工具。它是一个可编程、可扩展、可组合的 Agent 框架——你可以教它记住项目规范（Memory），拆分成多个专职角色（Sub-Agents），赋予它领域技能（Skills），让它在特定事件时自动响应（Hooks），甚至把它嵌入 CI/CD 流水线无人值守地运行（Headless）。
@@ -120,7 +120,7 @@ description 不是说明文档，而是触发器——掌握让 Claude 自动发
 ---
 
 <p align="center">
-  <a href="https://time.geekbang.org/column/intro/101053801">
+  <a href="https://time.geekbang.org/column/intro/101113501">
     <img src="https://img.shields.io/badge/👉_点击这里开启课程之旅-极客时间-00b4ab?style=for-the-badge&labelColor=2d3748" alt="开启课程之旅"/>
   </a>
 </p>
