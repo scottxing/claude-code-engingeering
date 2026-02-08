@@ -1,23 +1,4 @@
-# Claude Code 工程化实战 · 课程大纲
-
-<p align="center">
-  <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/平台-极客时间-00b4ab?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+" alt="极客时间"/></a>
-  <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/2026-首发专栏-ff6b35?style=for-the-badge" alt="2026首发"/></a>
-  <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/Claude_Code-工程化实战-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
-</p>
-
-<div align="center">
-
-
-
-🎯 **这是我为极客时间2026年制作的最新专栏，目标：快速掌握 Claude Code 高阶技能，进行工程化的 Agent 实战**
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📅_上线日期-2026年1月28日-success?style=flat-square&labelColor=2d3748" alt="上线日期"/>
-  <img src="https://img.shields.io/badge/状态-敬请期待_🔥-orange?style=flat-square" alt="敬请期待"/>
-</p>
+# Claude Code 工程化
 
 <h3 align="center">🚀 从工具使用者到 Agent 构建者的进阶之路</h3>
 
