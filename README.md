@@ -12,10 +12,6 @@
 
 但这不是"人被替代"的故事，而是"人机协作"的新篇章。
 
-<div align="center">
-  <a href="https://time.geekbang.org/column/intro/101113501"><img src="91-Pictures/极客和AI.png" alt="极客和AI" width="800"/></a>
-</div>
-
 Claude Code 不只是一个更聪明的命令行工具。它是一个可编程、可扩展、可组合的 Agent 框架——你可以教它记住项目规范（Memory），拆分成多个专职角色（Sub-Agents），赋予它领域技能（Skills），让它在特定事件时自动响应（Hooks），甚至把它嵌入 CI/CD 流水线无人值守地运行（Headless）。
 
 **这门课的目标：让你从 Claude Code 的"使用者"成长为"驾驭者"。**
