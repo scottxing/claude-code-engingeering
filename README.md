@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="https://time.geekbang.org/column/intro/101113501"><img src="91-Pictures/课程Banner.jpg" alt="Claude Code 工程化实战 Banner" width="600"/></a>
+
 
 🎯 **这是我为极客时间2026年制作的最新专栏，目标：快速掌握 Claude Code 高阶技能，进行工程化的 Agent 实战**
 
